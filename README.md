@@ -29,32 +29,32 @@ By the end of this course, you will be able to:<br>
     - Getting started with Python, Jupyter Notebook & Turi Create
     - Getting started with SFrames for data engineering and analysis
     - Week 1 Exercises:<br>
-        - [Course examples]()
-        - [Getting started with SFrames assignment]()
+        - [Course examples](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week1-Getting-started-with-Sframes/Class-examples.ipynb)
+        - [Getting started with SFrames assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week1-Getting-started-with-Sframes/Getting-started-with-SFrames.ipynb)
         
 - ## Week 2 - Regression
     - Linear regression modeling
     - Evaluating regression models
     - Summary of regression
     - Week 2 Exercises:<br>
-        - [Course examples - Predicting House Prices]()
-        - [Predicting House Prices assignment]()
+        - [Course examples - Predicting House Prices](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week2-Linear-regression/Class-examples.ipynb)
+        - [Predicting House Prices assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week2-Linear-regression/Predicting-house-prices.ipynb)
         
 - ## Week 3 Classification: Analyzing Sentiment 
     - Classification modeling
     - Evaluating classification models
     - Summary of classification
     - Week 3 Exercises:<br>
-        - [Course examples - Analyzing sentiment]()
-        - [Analyzing sentiment assignment]()
+        - [Course examples - Analyzing sentiment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week3-Classification-modeling/Class-examples.ipynb)
+        - [Analyzing sentiment assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week3-Classification-modeling/Analyzing-product-sentiment.ipynb)
 
 - ## Week 4 - Clustering and Similarity: Retrieving Documents
     - Algorithms for retrieval and measuring similarity of documents
     - Clustering models and algorithms
     - Summary of clustering and similarity
     - Week 4 Exercises:<br>
-        - [Course examples - Document retrieval]()
-        - [Retrieving Wikipedia articles assignment]()
+        - [Course examples - Document retrieval](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week4-Clustering-and-Similarity/Class-examples.ipynb)
+        - [Retrieving Wikipedia articles assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week4-Clustering-and-Similarity/Retrieving-Wikipedia-articles-assignment.ipynb)
         
 
 - ## Week 5 - Recommender systems
@@ -64,13 +64,13 @@ By the end of this course, you will be able to:<br>
     - Performance metrics for recommender systems
     - Summary of recommender systems
     - Week 5 Exercises:<br>
-        - [Course examples - Song recommender system]()
-        - [Recommending Songs assignment]() 
+        - [Course examples - Song recommender system](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week5-Recommender-systems/Class-examples.ipynb)
+        - [Recommending Songs assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week5-Recommender-systems/Recommending-songs.ipynb) 
         
 - ## Week 6 - Deep Learning
     - Neural networks: Learning very non-linear features
     - Deep learning & deep features
     - Summary of deep learning
     - Week 6 Exercises:<br>
-        - [Course examples - Deep features for image classification]()
-        - [Deep features for image retrieval assignment]() 
+        - [Course examples - Deep features for image classification](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week6-Neural-Networks/Class-examples-deep-learning.ipynb)
+        - [Deep features for image retrieval assignment](https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach/blob/master/course-exercises/week6-Neural-Networks/Retrieving-Images-exercise.ipynb) 
